@@ -1,2 +1,2 @@
 # jsbackend
-Node.js 백엔드 개발자 되기 소스.
+Node.js 백엔드 개발자 되기 예제소스.
